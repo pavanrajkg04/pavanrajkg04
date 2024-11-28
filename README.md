@@ -44,7 +44,6 @@
 #### **Cloud Platforms**:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP" width="40" height="40"/>
 </p>
 
 ---
