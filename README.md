@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Raj K G</h1>
-<h3 align="center">A Passionate Data Scientist & GIS Analyst from India</h3>
+<h3 align="center">A Passionate Data Scientist & AI-ML Expert</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanrajkg04&label=Profile%20Views&color=0e75b6&style=flat" alt="pavanrajkg04" />
