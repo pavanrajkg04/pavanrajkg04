@@ -8,8 +8,9 @@
 ---
 
 ### 🌟 About Me:
-- 🔭 **Currently Working on**: [World Bank funded REWARD Program](https://www.sujala3lri.karnataka.gov.in/)  
-- 🌱 **Learning**: Generative AI (GenAI) & Advanced Machine Learning  
+- 🔭 **Currently Working on**: AI-ML project @ KineLabs  
+- 🔭 **Milestone Project**: [World Bank funded REWARD Program](https://www.sujala3lri.karnataka.gov.in/)  
+- 🌱 **Learning**: Cloud & Devops 
 - 💬 **Ask Me About**: Python, Data Science, GIS, and AI  
 - 📫 **Reach Me**: pavanrajkg92@gmail.com  
 
