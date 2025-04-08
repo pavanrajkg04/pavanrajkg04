@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanrajkg04&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanrajkg04&theme=merko&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
