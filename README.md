@@ -91,6 +91,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanrajkg04&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanrajkg04&theme=radical](https://github-profile-trophy.vercel.app/?username=pavanrajkg04)](https://github.com/pavanrajkg04/github-profile-trophy)" />
+</p>
+
+[![trophy]()
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pavanrajkg04&theme=radical&row=1&column=6" />
