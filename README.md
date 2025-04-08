@@ -79,20 +79,27 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pavanrajkg04&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pavanrajkg04&theme=dracula" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pavanrajkg04&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
-
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pavanrajkg04&theme=github" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanrajkg04&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pavanrajkg04&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanrajkg04&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanrajkg04&theme=radical" />
+</p>
 
 ---
 
