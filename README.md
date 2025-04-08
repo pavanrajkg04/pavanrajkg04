@@ -92,17 +92,6 @@
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanrajkg04&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanrajkg04&layout=compact&theme=radical" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pavanrajkg04&theme=radical" alt="streak" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pavanrajkg04&theme=radical&row=1&column=6" />
 </p>
