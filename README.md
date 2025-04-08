@@ -10,7 +10,7 @@
 ### 🌟 About Me:
 - 🔭 **Currently Working on**: AI-ML project @ KineLabs  
 - 🔭 **Milestone Project**: [World Bank funded REWARD Program](https://www.sujala3lri.karnataka.gov.in/)  @ Department of Agriculture,Government of Karnataka
-- 🌱 **Learning**: Cloud & Devops 
+- 🌱 **Learning**: Reactjs, Cloud & Devops 
 - 💬 **Ask Me About**: Python, Data Science, GIS, and AI  
 - 📫 **Reach Me**: pavanrajkg92@gmail.com  
 
