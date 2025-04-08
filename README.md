@@ -80,16 +80,19 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanrajkg04&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pavanrajkg04&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavanrajkg04&theme=radical&row=1&column=6" />
-</p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pavanrajkg04&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pavanrajkg04&theme=dracula" alt="Activity Graph"/>
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pavanrajkg04&theme=github" alt="Activity Graph"/>
+</p>
+
 
 ---
 
