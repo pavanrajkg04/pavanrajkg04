@@ -91,14 +91,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanrajkg04&theme=radical" />
 </p>
 
-### 🐍 Contribution Snake
+
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pavanrajkg04/pavanrajkg04/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
-
-
 
 ---
 
