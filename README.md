@@ -94,7 +94,7 @@
 <p align="center">
   <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanrajkg04&theme=radical](https://github-profile-trophy.vercel.app/?username=pavanrajkg04)](https://github.com/pavanrajkg04/github-profile-trophy)" />
 </p>
-
+z
 [![trophy]()
 
 <p align="center">
@@ -104,6 +104,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pavanrajkg04&theme=dracula" />
 </p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavanrajkg04/pavanrajkg04/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 
 ---
 
