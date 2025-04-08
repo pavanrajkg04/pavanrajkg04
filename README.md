@@ -79,16 +79,6 @@
   </tr>
 </table>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanrajkg04&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanrajkg04&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pavanrajkg04&theme=radical" alt="GitHub Streak" />
 </p>
@@ -100,6 +90,14 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanrajkg04&theme=radical" />
 </p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/pavanrajkg04/pavanrajkg04/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 
 ---
 
