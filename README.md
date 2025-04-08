@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Scientist | AI/ML Engineer | Cloud & DevOps Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavanrajkg04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pavanrajkg04&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
