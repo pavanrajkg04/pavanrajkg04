@@ -27,10 +27,11 @@
 ---
 ## 🏢 Founder & Startup Journey  
 
-### 🚀 Medha Labs — *Founder (2022 – Present)*  
+### 🚀 Medhā Labs — *Founder (2022 – Present)*  
 🌐 https://medhalabs.in/
+✉️ medhalabs04@gmail.com
 
-- 🧠 Founded **Medha Labs in 2022** with a vision to build **technology-first, scalable, and intelligent digital solutions**
+- 🧠 Founded **Medhā Labs in 2022** with a vision to build **technology-first, scalable, and intelligent digital solutions**
 - Medha Labs is a **software development & innovation studio** helping startups and businesses transform ideas into production-ready systems
 - Leading end-to-end execution — **system architecture, AI integration, cloud deployment, and automation**
 
