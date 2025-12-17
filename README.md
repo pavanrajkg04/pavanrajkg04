@@ -25,7 +25,26 @@
 - 📫 **Reach Me**: [pavanrajkg92@gmail.com](mailto:pavanrajkg92@gmail.com) | 📍 Bengaluru  
 
 ---
+## 🏢 Founder & Startup Journey  
 
+### 🚀 Medha Labs — *Founder (2022 – Present)*  
+🌐 https://medhalabs.in/
+
+- 🧠 Founded **Medha Labs in 2022** with a vision to build **technology-first, scalable, and intelligent digital solutions**
+- Medha Labs is a **software development & innovation studio** helping startups and businesses transform ideas into production-ready systems
+- Leading end-to-end execution — **system architecture, AI integration, cloud deployment, and automation**
+
+**Key Focus Areas at Medha Labs:**
+- 🧩 **Custom Software Development** — scalable, secure, and high-performance applications  
+- 🤖 **AI, ML & Automation Solutions** — intelligent systems, workflow automation, data-driven products  
+- 🌐 **Web & Application Development** — modern, user-centric, cloud-native builds  
+- 📊 **Data & Analytics Systems** — dashboards, insights, predictive intelligence  
+- ☁️ **Cloud, DevOps & MLOps** — CI/CD pipelines, containerization, Kubernetes, scalable infrastructure  
+
+- 🤝 Applying **AI/ML, predictive modeling, agentic systems, and MLOps practices** to solve real-world business problems  
+- 🔗 Strong synergy between my work as a **Data Scientist / AI Engineer** and building **production-grade systems** at Medha Labs
+  
+---
 ### 🌐 Connect with Me  
 <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
   <a href="https://linkedin.com/in/pavanrajkg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -110,7 +129,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanrajkg04&layout=compact&theme=radical" height="180" />
 </div>
 
-<p align="center">
+<p align="center"> 
   <img src="https://streak-stats.demolab.com?user=pavanrajkg04&theme=radical" />
 </p>
 
