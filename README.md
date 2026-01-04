@@ -56,6 +56,27 @@
 </div>
 
 ---
+### ✨ Products developed by me ⨳
+
+**Portik**  
+A modern **portfolio tracker & trade journal** for traders and investors.  
+Track stocks and mutual funds, journal trades with context, and analyze performance with clean analytics.  
+🔗 https://www.portik.in/
+
+**Billinator**  
+A **GST billing & invoicing platform** built to simplify business billing workflows with a fast, intuitive UI.  
+🔗 https://medhalabs.in/
+
+**OStaffSync**  
+An **all-in-one HR management system** covering attendance, payroll, performance management, recruitment, and onboarding.  
+🔗 https://medhalabs.in/
+
+**ProMirror**  
+A **crypto copy-trading platform** that allows users to mirror strategies and trades from experienced crypto traders in real time.  
+🔗 https://medhalabs.in/
+
+---
+
 
 ### 🛠️ Tech Stack  
 
