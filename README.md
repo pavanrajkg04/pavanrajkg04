@@ -64,16 +64,9 @@ Track stocks and mutual funds, journal trades with context, and analyze performa
 🔗 https://www.portik.in/
 
 **Billinator**  
-A **GST billing & invoicing platform** built to simplify business billing workflows with a fast, intuitive UI.  
-🔗 https://medhalabs.in/
+A **GST billing, inventory, CRM, HR & payroll-ready — with AI built in** built to simplify business billing workflows with a fast, intuitive UI.  
+🔗 https://www.billinator.in/
 
-**OStaffSync**  
-An **all-in-one HR management system** covering attendance, payroll, performance management, recruitment, and onboarding.  
-🔗 https://medhalabs.in/
-
-**ProMirror**  
-A **crypto copy-trading platform** that allows users to mirror strategies and trades from experienced crypto traders in real time.  
-🔗 https://medhalabs.in/
 
 ---
 
