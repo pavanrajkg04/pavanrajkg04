@@ -67,6 +67,10 @@ Track stocks and mutual funds, journal trades with context, and analyze performa
 A **GST billing, inventory, CRM, HR & payroll-ready — with AI built in** built to simplify business billing workflows with a fast, intuitive UI.  
 🔗 https://www.billinator.in/
 
+**Medha Inbrix**
+Stop juggling inboxes.
+**AI-powered shared** inbox that brings your team’s email together — Outlook & Gmail, conversations, tags, assign & snooze. One place. One workflow.
+🔗 https://medhalabs.in/
 
 ---
 
