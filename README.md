@@ -68,8 +68,10 @@ A **GST billing, inventory, CRM, HR & payroll-ready — with AI built in** built
 🔗 https://www.billinator.in/
 
 **Medha Inbrix**
+
 Stop juggling inboxes.
 **AI-powered shared** inbox that brings your team’s email together — Outlook & Gmail, conversations, tags, assign & snooze. One place. One workflow.
+
 🔗 https://medhalabs.in/
 
 ---
